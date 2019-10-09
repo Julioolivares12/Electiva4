@@ -32,6 +32,7 @@ namespace VentaDeRepuestos
                 this.Hide();
                 new Menu().Show();
 
+
             }
             else
             {
