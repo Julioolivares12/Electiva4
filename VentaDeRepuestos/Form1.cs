@@ -20,6 +20,7 @@ namespace VentaDeRepuestos
             pbLogo.Image = image;
             pbLogo.SizeMode = PictureBoxSizeMode.StretchImage;
 
+
         }
 
         private async void BtnLogin_Click(object sender, EventArgs e)
